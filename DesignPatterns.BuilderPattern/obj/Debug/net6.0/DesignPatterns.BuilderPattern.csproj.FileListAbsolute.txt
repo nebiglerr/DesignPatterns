@@ -1,0 +1,15 @@
+C:\Users\rog\Desktop\DesignPatterns\DesignPatterns.BuilderPattern\bin\Debug\net6.0\DesignPatterns.BuilderPattern.exe
+C:\Users\rog\Desktop\DesignPatterns\DesignPatterns.BuilderPattern\bin\Debug\net6.0\DesignPatterns.BuilderPattern.deps.json
+C:\Users\rog\Desktop\DesignPatterns\DesignPatterns.BuilderPattern\bin\Debug\net6.0\DesignPatterns.BuilderPattern.runtimeconfig.json
+C:\Users\rog\Desktop\DesignPatterns\DesignPatterns.BuilderPattern\bin\Debug\net6.0\DesignPatterns.BuilderPattern.dll
+C:\Users\rog\Desktop\DesignPatterns\DesignPatterns.BuilderPattern\bin\Debug\net6.0\DesignPatterns.BuilderPattern.pdb
+C:\Users\rog\Desktop\DesignPatterns\DesignPatterns.BuilderPattern\obj\Debug\net6.0\DesignPatterns.BuilderPattern.csproj.AssemblyReference.cache
+C:\Users\rog\Desktop\DesignPatterns\DesignPatterns.BuilderPattern\obj\Debug\net6.0\DesignPatterns.BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rog\Desktop\DesignPatterns\DesignPatterns.BuilderPattern\obj\Debug\net6.0\DesignPatterns.BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\rog\Desktop\DesignPatterns\DesignPatterns.BuilderPattern\obj\Debug\net6.0\DesignPatterns.BuilderPattern.AssemblyInfo.cs
+C:\Users\rog\Desktop\DesignPatterns\DesignPatterns.BuilderPattern\obj\Debug\net6.0\DesignPatterns.BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\rog\Desktop\DesignPatterns\DesignPatterns.BuilderPattern\obj\Debug\net6.0\DesignPatterns.BuilderPattern.dll
+C:\Users\rog\Desktop\DesignPatterns\DesignPatterns.BuilderPattern\obj\Debug\net6.0\refint\DesignPatterns.BuilderPattern.dll
+C:\Users\rog\Desktop\DesignPatterns\DesignPatterns.BuilderPattern\obj\Debug\net6.0\DesignPatterns.BuilderPattern.pdb
+C:\Users\rog\Desktop\DesignPatterns\DesignPatterns.BuilderPattern\obj\Debug\net6.0\DesignPatterns.BuilderPattern.genruntimeconfig.cache
+C:\Users\rog\Desktop\DesignPatterns\DesignPatterns.BuilderPattern\obj\Debug\net6.0\ref\DesignPatterns.BuilderPattern.dll

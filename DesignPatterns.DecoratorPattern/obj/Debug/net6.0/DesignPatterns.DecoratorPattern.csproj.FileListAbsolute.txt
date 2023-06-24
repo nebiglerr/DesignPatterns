@@ -1,0 +1,7 @@
+C:\Users\rog\Desktop\DesignPatterns\DesignPatterns.DecoratorPattern\obj\Debug\net6.0\DesignPatterns.DecoratorPattern.csproj.AssemblyReference.cache
+C:\Users\rog\Desktop\DesignPatterns\DesignPatterns.DecoratorPattern\obj\Debug\net6.0\DesignPatterns.DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rog\Desktop\DesignPatterns\DesignPatterns.DecoratorPattern\obj\Debug\net6.0\DesignPatterns.DecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\rog\Desktop\DesignPatterns\DesignPatterns.DecoratorPattern\obj\Debug\net6.0\DesignPatterns.DecoratorPattern.AssemblyInfo.cs
+C:\Users\rog\Desktop\DesignPatterns\DesignPatterns.DecoratorPattern\obj\Debug\net6.0\DesignPatterns.DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\rog\Desktop\DesignPatterns\DesignPatterns.DecoratorPattern\obj\Debug\net6.0\DesignPatterns.DecoratorPattern.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rog\Desktop\DesignPatterns\DesignPatterns.DecoratorPattern\obj\Debug\net6.0\DesignPatterns.DecoratorPattern.MvcApplicationPartsAssemblyInfo.cache
